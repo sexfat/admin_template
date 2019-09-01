@@ -64,11 +64,17 @@
 ### 上線所需要檔案
 
   |-css
+  
   |-img
+  
   |-icons
+  
   |-vendors
+  
   |-js
+  
   |-index.html
+  
 
 
 
